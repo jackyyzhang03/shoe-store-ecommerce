@@ -1,0 +1,6 @@
+[submodule "shoe-store-ecommerce-client"]
+	path = shoe-store-ecommerce-client
+	url = git@github.com:jackyyzhang03/shoe-store-ecommerce-client.git
+[submodule "shoe-store-ecommerce-server"]
+	path = shoe-store-ecommerce-server
+	url = git@github.com:jackyyzhang03/shoe-store-ecommerce-server.git
